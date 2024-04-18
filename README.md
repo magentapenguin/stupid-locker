@@ -1,2 +1,3 @@
 # stupid-locker
-https://cat5python.com/stupidlocker
+See https://cat5python.com/stupidlocker for more info and customization.
+
